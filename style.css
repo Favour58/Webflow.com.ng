@@ -1,0 +1,64 @@
+.container-fluid{
+    background-color: gainsboro;
+}
+
+ul li a:hover{
+    color: white;
+}
+#e1{
+    background-color:palegoldenrod;
+}
+ 
+/* .container{
+    width: 100%;
+    height: 100%;
+    top: 0%;
+    left: 0%;
+    /* display: flexbox; 
+    margin-left: 0%;
+    margin-top: 0%;
+    background:linear-gradient(90deg,#f00275,#75489f);
+    position:absolute;
+    border-bottom-right-radius: 00%;
+} */
+/* .imgg{
+    width: 100%;
+    height: 100%;
+    opacity: 30%;
+    position: relative;
+}
+#content{
+  margin-top: 20%;
+  position: absolute;
+  color: white;
+  font-family: verdana;
+  text-align: center;
+  font-weight: 170;
+
+}
+#btnn{
+    width: 50%;
+    height:5rem;
+    background-color: white;
+    color: black;
+    position: absolute;
+    margin-left: -72%;
+    margin-top: 70%;
+    border: none;
+    border-radius: 10px;
+}
+#column1{
+    background-color: white;
+    margin-top: 100%;
+
+} */
+
+
+
+
+
+
+
+
+
+
